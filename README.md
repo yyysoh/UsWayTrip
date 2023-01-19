@@ -13,7 +13,7 @@ Back-end <br/>
 적용 기술 <br/>
 Spring <br/>
 Oracle (AWS) <br/>
-Trello (마인드맵 구현) <br/>
+Figma (마인드맵 구현) <br/>
 
 ## 담당 업무
 팀원1. 위시리스트, 결제 <br/>
