@@ -11,14 +11,11 @@ Back-end <br/>
 
 ## 적용 기술 및 구현 기능
 적용 기술 <br/>
+HTML <br/>
+Javascript <br/>
+JAVA <br/>
+JSP <br/>
 Spring <br/>
 Oracle (AWS) <br/>
-Figma (마인드맵 구현) <br/>
 
-## 담당 업무
-팀원1. 위시리스트, 결제 <br/>
-팀원2. 국내 숙소 파트 <br/>
-팀원3(me). 투어 티켓 파트 <br/>
--> 상품 등록/읽기/수정/삭제 <br/>
-팀원4. 회원가입, 로그인, 마이페이지 <br/>
-팀원5. 게시판  <br/>
+
