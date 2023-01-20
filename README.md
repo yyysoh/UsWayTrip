@@ -18,4 +18,12 @@ JSP <br/>
 Spring <br/>
 Oracle (AWS) <br/>
 
+## 담당 Controller
+- TicketController
+- TicketEventController
+- TicketInfoController
+- TicketOptionController
+- TicketSubController
+
+
 
